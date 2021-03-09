@@ -1,0 +1,32 @@
+[
+    {
+        "username": "Neha",
+        "password": "nh1234@",
+        "Profile": {
+            "Descrition": "I'm Neha.i like to visite place",
+            "DOB": "21/11/1999",
+            "Hobbies": "sport",
+            "Gender": "female"
+        }
+    },
+    {
+        "username": "druga",
+        "password": "drg@123",
+        "Profile": {
+            "Descrition": "she like to travle",
+            "DOB": "21/3/2000",
+            "Hobbies": "singing song",
+            "Gender": "female"
+        }
+    },
+    {
+        "username": "pragati",
+        "password": "prgti@1234",
+        "Profile": {
+            "Descrition": "she love coding and listening music",
+            "DOB": "24/6/1998",
+            "Hobbies": "sport and jamping play",
+            "Gender": "female"
+        }
+    }
+]
